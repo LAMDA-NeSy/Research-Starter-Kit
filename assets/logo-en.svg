@@ -1,0 +1,37 @@
+<svg width="2048" height="2048" viewBox="0 0 2048 2048" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Research Starter Kit logo</title>
+  <desc id="desc">An open research handbook with a star marker, labeled Research Starter Kit.</desc>
+  <rect width="2048" height="2048" rx="0" fill="#FAF8F1"/>
+  <circle cx="1024" cy="770" r="500" fill="#EAF3EA"/>
+  <circle cx="1024" cy="770" r="418" fill="#FDFBF4"/>
+
+  <ellipse cx="1024" cy="1326" rx="390" ry="66" fill="#DCEBDD"/>
+
+  <g>
+    <path d="M427 1022C604 921 787 895 975 944V1266C787 1214 604 1240 427 1342V1022Z" fill="#F7EFD6"/>
+    <path d="M1621 1022C1444 921 1261 895 1073 944V1266C1261 1214 1444 1240 1621 1342V1022Z" fill="#F7EFD6"/>
+    <path d="M427 1022C604 921 787 895 975 944V1266C787 1214 604 1240 427 1342V1022Z" stroke="#123F32" stroke-width="34" stroke-linejoin="round"/>
+    <path d="M1621 1022C1444 921 1261 895 1073 944V1266C1261 1214 1444 1240 1621 1342V1022Z" stroke="#123F32" stroke-width="34" stroke-linejoin="round"/>
+    <path d="M975 944C1008 960 1040 960 1073 944V1266C1040 1286 1008 1286 975 1266V944Z" fill="#DFA755" stroke="#123F32" stroke-width="30" stroke-linejoin="round"/>
+    <path d="M539 1114C662 1056 787 1043 915 1075" stroke="#E0B768" stroke-width="22" stroke-linecap="round"/>
+    <path d="M1509 1114C1386 1056 1261 1043 1133 1075" stroke="#E0B768" stroke-width="22" stroke-linecap="round"/>
+    <path d="M544 1215C659 1170 783 1161 914 1188" stroke="#EBD49D" stroke-width="18" stroke-linecap="round"/>
+    <path d="M1504 1215C1389 1170 1265 1161 1134 1188" stroke="#EBD49D" stroke-width="18" stroke-linecap="round"/>
+  </g>
+
+  <g>
+    <path d="M1024 386L1169 672L1489 719L1257 943L1312 1260L1024 1110L736 1260L791 943L559 719L879 672L1024 386Z" fill="#F4C461" stroke="#123F32" stroke-width="24" stroke-linejoin="round"/>
+    <path d="M1024 468L1141 699L1399 737L1212 918L1256 1174L1024 1053L792 1174L836 918L649 737L907 699L1024 468Z" fill="#246B59"/>
+    <path d="M1024 542L1115 721L1315 751L1170 891L1204 1090L1024 996L844 1090L878 891L733 751L933 721L1024 542Z" fill="#FAF8F1" stroke="#123F32" stroke-width="18" stroke-linejoin="round"/>
+    <path d="M1024 642L1079 751L1200 769L1112 854L1133 974L1024 917L915 974L936 854L848 769L969 751L1024 642Z" fill="#E0A94D" stroke="#123F32" stroke-width="14" stroke-linejoin="round"/>
+  </g>
+
+  <g>
+    <path d="M1024 1411C1205 1411 1352 1384 1352 1352C1352 1319 1205 1293 1024 1293C843 1293 696 1319 696 1352C696 1384 843 1411 1024 1411Z" fill="#EAF3EA"/>
+    <path d="M740 1350H1308" stroke="#123F32" stroke-width="26" stroke-linecap="round"/>
+    <path d="M840 1418H1208" stroke="#E0A94D" stroke-width="22" stroke-linecap="round"/>
+  </g>
+
+  <text x="1024" y="1639" text-anchor="middle" fill="#123F32" font-family="Georgia, 'Times New Roman', serif" font-size="174" font-weight="800">Research</text>
+  <text x="1024" y="1813" text-anchor="middle" fill="#123F32" font-family="Georgia, 'Times New Roman', serif" font-size="166" font-weight="800">Starter Kit</text>
+</svg>

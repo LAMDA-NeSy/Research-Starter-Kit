@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo-en.svg" alt="科研入门指南 logo" width="360">
+  <img src="assets/logo-en.svg" alt="科研入门指南 logo" width="200">
 </p>
 
 # 科研入门指南：从0开始，掌握做科研、写论文的基本流程

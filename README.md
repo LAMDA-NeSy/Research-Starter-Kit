@@ -80,8 +80,8 @@
 项目得到了陈煜旸、葛凌岳、张逸凯等同学的帮助，也借鉴了以下相关资料：
 
 - [周志华老师：做研究与写论文](https://zhuanlan.zhihu.com/p/98747105)
-- [凌晓峰/杨强《学术研究，你的成功之道](https://book.douban.com/subject/20284332/)
+- [凌晓峰/杨强《学术研究，你的成功之道》](https://book.douban.com/subject/20284332/)
 - [浙江大学彭思达老师：我的科研经验](https://github.com/pengsida/learning_research)
 - [东南大学魏秀参老师：浅谈学术Rebuttal](https://zhuanlan.zhihu.com/p/104298923)
 - [Paper Rebuttal Tips](https://github.com/MLNLP-World/Paper-Rebuttal-Tips)
-- [Science Research Writing: For Non-Native Speakers of English](https://book.douban.com/subject/4473481/)
+- [《Science Research Writing: For Non-Native Speakers of English》](https://book.douban.com/subject/4473481/)

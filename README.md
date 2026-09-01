@@ -7,7 +7,7 @@
 > 面向刚进入课题组参与科研工作的同学，帮助大家快速建立对科研的基本认识，了解如何做科研，如何写论文。
 
 <p align="center">
-  <a href="https://lamda-nesy.github.io/Research-Starter-Kit/"><strong>网站</strong></a>
+  <a href="https://github.com/LAMDA-NeSy/Research-Starter-Kit"><strong>网站</strong></a>
   ·
   <a href="#handbook"><strong>手册</strong></a>
   ·

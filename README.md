@@ -21,11 +21,13 @@
 
 ## 为什么做这个项目
 
-大家好，我是[郭兰哲](https://www.lamda.nju.edu.cn/guolz/)，南京大学智能科学与技术学院准聘助理教授，博士生导师，主要研究方向是：智能体（Agent）、世界模型（World Model）、神经符号学习（Neuro-Symbolic Learning）、表格数据大模型（Tabular Foundation Model）。
+大家好，我是[郭兰哲](https://www.lamda.nju.edu.cn/guolz/)，南京大学智能科学与技术学院准聘副教授，博士生导师，主要研究方向是：智能体（Agent）、世界模型（World Model）、大模型推理（LLM Reasoning and Planning）、神经符号学习（Neuro-Symbolic Learning）、表格数据大模型（Tabular Foundation Model）。
 
-每年都会有新的研究生入学，也会有很多本科生想要提前进组参与科研工作，每个人刚进来的时候都要对他们讲一遍什么是科研，怎么样做科研，怎么样找论文、读论文，怎么判断论文的价值，怎么发现问题，怎么想Idea，到学生第一次投稿的时候，很多共性问题也要重复的讲。同时也有很多人可能处于被放养状态，没有相关的老师指导，因此决定把如何做科研的一些基本认识，整理成文档。
+每年都会有新的研究生入学，也有不少本科生希望提前进入课题组参与科研。对于刚开始接触科研的同学，我们常常需要反复讲解一些基础问题：什么是科研，如何开展科研，如何查找和阅读论文，如何判断一篇论文的价值，如何发现问题、提出 Idea，以及如何准备第一次投稿。与此同时，也有一些同学可能处于被放养状态，缺少系统性的指导。基于这些原因，我们决定将关于科研入门的一些基本认识和经验整理成文档，希望能为刚开始科研训练的同学提供一份可参考的指南。
 
-这个项目仍处在早期阶段，我们会持续的更新与完善，如果你觉得这个项目对你有帮助，请点亮右上角的⭐️Star⭐️！谢谢！
+这个项目仍处在早期阶段，后面会持续的更新与完善，也欢迎大家通过留言、邮件等方式提出你的建议或者你想看到的内容。
+
+如果你觉得这个项目对你有帮助，请点亮右上角的⭐️Star⭐️！谢谢😃😃!
 
 ## 适合谁阅读
 
@@ -69,6 +71,7 @@
 
 - 🧳 [学术会议参会指南](https://dy8q0bnq8y.feishu.cn/wiki/HDYdwMgrki0C35kR147cquf2nph?from=from_copylink)
 - 💰 [有哪些能申请的奖学金](https://dy8q0bnq8y.feishu.cn/wiki/SN0Dw5gvhidkMtkcmAYcXbUhnSh?from=from_copylink)
+- 🤖 [AI 辅助科研的一些tips](https://lamda3-nju.feishu.cn/wiki/Uf9fwnQFxiJS1akJZkPc87gFniq?from=from_copylink)
 
 </details>
 

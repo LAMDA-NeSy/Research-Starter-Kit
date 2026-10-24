@@ -41,37 +41,37 @@
 ## 📖 手册：如何做科研与写论文
 
 <details open>
-<summary><strong>📚 <a href="https://dy8q0bnq8y.feishu.cn/wiki/LfR9woW57iWpQWkRKJhcoFF7ndb?from=from_copylink">如何做科研？</a></strong></summary>
+<summary><strong>📚 <a href="docs/research/README.md">如何做科研？</a></strong></summary>
 
-- ☁️ [如何找论文？](https://dy8q0bnq8y.feishu.cn/wiki/Co5awLsRiiuYAlkqHhCcwGBanub?from=from_copylink)
-- 📄 [如何读论文？](https://dy8q0bnq8y.feishu.cn/wiki/Ow8fw2HtEiixDgkWlkbckdvHnef?from=from_copylink)
-- 💡 [如何想 Idea？](https://dy8q0bnq8y.feishu.cn/wiki/MxYVwN0lEiv5HUkLEJccRJI3nTd?from=from_copylink)
-- 🎙️ [如何进行学术汇报](https://dy8q0bnq8y.feishu.cn/wiki/Wr0lwNhUdiMpt1kK6UmcgnWEnJI?from=from_copylink)
-- 🧭 [如何高效 Meeting](https://dy8q0bnq8y.feishu.cn/wiki/B8FBwaHe6ivi2skemtFc3lWbnmh?from=from_copylink)
-- 📝 [一些好的习惯](https://dy8q0bnq8y.feishu.cn/wiki/Bp2AwrSnAiGaH2khJaqczVXznwc?from=from_copylink)
-
-</details>
-
-<details open>
-<summary><strong>📄 <a href="https://dy8q0bnq8y.feishu.cn/wiki/NsK3wnWeiivKNukNJOqcd985nTY?from=from_copylink">如何写论文？</a></strong></summary>
-
-- 📝 [论文画图指南](https://dy8q0bnq8y.feishu.cn/wiki/OGpcw6zaRiQ6OwkNxfYcl7IKnBh?from=from_copylink)
-- 📝 [如何写论文-Abstract](https://dy8q0bnq8y.feishu.cn/wiki/Tz2pwvxTyiBK0zkCVszcZmJ3nwd?from=from_copylink)
-- 📝 [如何写论文-Introduction](https://dy8q0bnq8y.feishu.cn/wiki/ULATwBu2MiLqqRkXxV6c2S7AnPd?from=from_copylink)
-- 📝 [如何写论文-Related Works](https://dy8q0bnq8y.feishu.cn/wiki/CLSAwWm6qifjwQkTd82czgMNnYf?from=from_copylink)
-- 📝 [如何写论文-Methods](https://dy8q0bnq8y.feishu.cn/wiki/CtiAwh1eOiqOfCkPKVLc0WsxnZg?from=from_copylink)
-- 📝 [如何写论文-Experiments](https://dy8q0bnq8y.feishu.cn/wiki/KHgSw2MkrikxlskGe5qclkdbn2c?from=from_copylink)
-- 📝 [如何写论文-Reference](https://dy8q0bnq8y.feishu.cn/wiki/A4q2wSnmRi91rykHke1cQIhnnAh?from=from_copylink)
-- 📝 [如何 Rebuttal](https://dy8q0bnq8y.feishu.cn/wiki/M9d1wv5Efi2aG4kH4IDc5zqVnQh?from=from_copylink)
+- ☁️ [如何找论文？](docs/research/finding-papers.md)
+- 📄 [如何读论文？](docs/research/reading-papers.md)
+- 💡 [如何想 Idea？](docs/research/developing-ideas.md)
+- 🎙️ [如何进行学术汇报](docs/research/academic-presentations.md)
+- 🧭 [如何高效 Meeting](docs/research/effective-meetings.md)
+- 📝 [一些好的习惯](docs/research/research-habits.md)
 
 </details>
 
 <details open>
-<summary><strong>杂项</strong></summary>
+<summary><strong>📄 <a href="docs/writing/README.md">如何写论文？</a></strong></summary>
 
-- 🧳 [学术会议参会指南](https://dy8q0bnq8y.feishu.cn/wiki/HDYdwMgrki0C35kR147cquf2nph?from=from_copylink)
-- 💰 [有哪些能申请的奖学金](https://dy8q0bnq8y.feishu.cn/wiki/SN0Dw5gvhidkMtkcmAYcXbUhnSh?from=from_copylink)
-- 🤖 [AI 辅助科研的一些tips](https://lamda3-nju.feishu.cn/wiki/Uf9fwnQFxiJS1akJZkPc87gFniq?from=from_copylink)
+- 📝 [论文画图指南](docs/writing/figures.md)
+- 📝 [如何写论文-Abstract](docs/writing/abstract.md)
+- 📝 [如何写论文-Introduction](docs/writing/introduction.md)
+- 📝 [如何写论文-Related Works](docs/writing/related-work.md)
+- 📝 [如何写论文-Methods](docs/writing/methods.md)
+- 📝 [如何写论文-Experiments](docs/writing/experiments.md)
+- 📝 [如何写论文-Reference](docs/writing/references.md)
+- 📝 [如何 Rebuttal](docs/writing/rebuttal.md)
+
+</details>
+
+<details open>
+<summary><strong><a href="docs/misc/README.md">杂项</a></strong></summary>
+
+- 🧳 [学术会议参会指南](docs/misc/conference-attendance.md)
+- 💰 [有哪些能申请的奖学金](docs/misc/scholarships.md)
+- 🤖 [AI 辅助科研的一些tips](docs/misc/ai-research-tips.md)
 
 </details>
 

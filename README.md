@@ -61,6 +61,9 @@
 - 📝 [如何写论文-Related Works](https://dy8q0bnq8y.feishu.cn/wiki/CLSAwWm6qifjwQkTd82czgMNnYf?from=from_copylink)
 - 📝 [如何写论文-Methods](https://dy8q0bnq8y.feishu.cn/wiki/CtiAwh1eOiqOfCkPKVLc0WsxnZg?from=from_copylink)
 - 📝 [如何写论文-Experiments](https://dy8q0bnq8y.feishu.cn/wiki/KHgSw2MkrikxlskGe5qclkdbn2c?from=from_copylink)
+- 📝 [如何写论文-Results](docs/research-writing-results.md)
+- 📝 [如何写论文-Discussion](docs/research-writing-discussion.md)
+- 📝 [如何写论文-Conclusion](docs/research-writing-conclusion.md)
 - 📝 [如何写论文-Reference](https://dy8q0bnq8y.feishu.cn/wiki/A4q2wSnmRi91rykHke1cQIhnnAh?from=from_copylink)
 - 📝 [如何 Rebuttal](https://dy8q0bnq8y.feishu.cn/wiki/M9d1wv5Efi2aG4kH4IDc5zqVnQh?from=from_copylink)
 
